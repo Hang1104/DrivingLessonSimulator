@@ -1,3 +1,6 @@
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 # Learn to Drive – Gamification with Unity
 
 A gamification app to help Malaysians prepare for their JPJ driving test.
@@ -16,6 +19,12 @@ test scenarios anytime, anywhere.
 
 ## Tech Stack
 Unity · C# · Firebase Console · Android Studio
+
+## What I Learned
+- Implementing 3D driving physics and collision detection in Unity
+- Integrating Firebase for user authentication and score tracking
+- Designing step-by-step in-game instruction systems
+- Building and deploying an Android app via Google Play Console
 
 ## Screenshots
 
